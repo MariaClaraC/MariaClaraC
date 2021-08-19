@@ -10,7 +10,7 @@ Eu sou uma artista, e estou no primeiro ano do ensino médio. Estou cursando fro
 
 <hr>
 <div> 
-<a href="https://github.com/MariaClaraC" target="_blank"><img src="https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://github.com/MariaClaraC" target="_blank"><img src="https://img.shields.io/badge/github-21262c?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://www.youtube.com/channel/UCZR-10ydDCyg0SL-cmOxgGQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://twitter.com/KKey_yo" target="_blank"><img src="https://img.shields.io/badge/twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
 </a>
