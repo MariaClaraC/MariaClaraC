@@ -8,12 +8,11 @@ Eu sou uma artista, e estou no primeiro ano do ensino médio. Estou cursando fro
 ![Moepoi's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=MariaClaraC&theme=default_repocard&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraC&theme=default_repocard&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MariaClaraC&theme=default_repocard&show_icons=true)
+[![GitHub Streak stats](http://github-readme-streak-stats.herokuapp.com?user=MariaClaraC&theme=solarized-light&hide_border=true)](https://git.io/streak-stats)
 
-<div> 
+<div class="repository"> 
   <a href="https://github.com/MariaClaraC/edutech-PR">
     <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MariaClaraC&repo=edutech-pr&theme=default_repocard"/> </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" /> </a>
 </div>
 
 <details>
@@ -26,4 +25,13 @@ Eu sou uma artista, e estou no primeiro ano do ensino médio. Estou cursando fro
 <a href="https://steamcommunity.com/id/KKyooishi" target="_blank"><img src="https://img.shields.io/badge/steam-1b2838?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 <a href="https://www.planetminecraft.com/member/chocoladwichs/" target="_blank"><img src="https://img.shields.io/badge/planetminecraft-00acee?style=for-the-badge&logo=planetminecraft&logoColor=white" target="_blank"></a>
 </div> 
+</details>
+
+<details>
+  <summary><b>profile credits</b></summary>
+  <div> 
+    - [Moepoi's github stats](https://github.com/moepoi);
+    - [![Top Langs](https://github.com/anuraghazra/github-readme-stats)
+    - 
+  </div> 
 </details>
