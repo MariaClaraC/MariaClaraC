@@ -29,8 +29,8 @@ Eu sou uma artista, e estou no primeiro ano do ensino médio. Estou cursando fro
 <details>
   <summary><b>profile credits</b></summary>
   <div> 
-    - [Moepoi's github stats](https://github.com/moepoi);
-    - [![Top Langs](https://github.com/anuraghazra/github-readme-stats)
-    - GitHub Streak by 
+   - ![Moepoi's github stats](https://github.com/moepoi);
+   - [![Top Langs](https://github.com/anuraghazra/github-readme-stats);
+   - [!GitHub Streak by DenverCoder1](https://git.io/streak-stats);
   </div> 
 </details>
