@@ -10,10 +10,10 @@ Eu sou uma artista, e estou no primeiro ano do ensino médio. Estou cursando fro
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MariaClaraC&theme=default_repocard&show_icons=true)
 
 <a href="https://github.com/MariaClaraC/edutech-PR">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MariaClaraC&repo=edutech-pr&theme=default_repocard" />
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MariaClaraC&repo=edutech-pr&theme=default_repocard"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
 <details>
