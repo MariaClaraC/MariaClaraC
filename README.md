@@ -2,8 +2,11 @@
 #### Bem-vindo ao meu perfil!
 <hr>
 Eu sou uma artista, e estou no primeiro ano do ensino médio. Estou cursando front-end na Alura  
+
 - 🔭 I’m currently working on this page lmao 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaClaraC&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraC&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
