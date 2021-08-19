@@ -7,8 +7,7 @@ Eu sou uma artista, e estou no primeiro ano do ensino médio. Estou cursando fro
 
 ![Moepoi's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=MariaClaraC&theme=default_repocard&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraC&theme=default_repocard&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MariaClaraC&theme=default_repocard&show_icons=true)
-[![GitHub Streak stats](http://github-readme-streak-stats.herokuapp.com?user=MariaClaraC&theme=solarized-light&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MariaClaraC&theme=onedark_duo&hide_border=true)](https://git.io/streak-stats)
 
 <div class="repository"> 
   <a href="https://github.com/MariaClaraC/edutech-PR">
@@ -32,6 +31,6 @@ Eu sou uma artista, e estou no primeiro ano do ensino médio. Estou cursando fro
   <div> 
     - [Moepoi's github stats](https://github.com/moepoi);
     - [![Top Langs](https://github.com/anuraghazra/github-readme-stats)
-    - 
+    - GitHub Streak by 
   </div> 
 </details>
