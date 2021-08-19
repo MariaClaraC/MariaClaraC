@@ -5,7 +5,7 @@ Eu sou uma artista, e estou no primeiro ano do ensino médio. Estou cursando fro
 
 - 🔭 I’m currently working on this page lmao 
 
-![GitHub streak stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=MariaClaraC&theme=default_repocard&show_icons=true)](https://github.com/moepoi/moepoi)
+![Moepoi's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=MariaClaraC&theme=default_repocard&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraC&theme=default_repocard&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MariaClaraC&theme=default_repocard&show_icons=true)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MariaClaraC&repo=edutech-pr&theme=default_repocard)](https://github.com/MariaClaraC/edutech-PR)
