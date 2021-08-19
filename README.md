@@ -9,12 +9,12 @@ Eu sou uma artista, e estou no primeiro ano do ensino médio. Estou cursando fro
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraC&theme=default_repocard&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MariaClaraC&theme=default_repocard&show_icons=true)
 
-<a href="https://github.com/MariaClaraC/edutech-PR">
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MariaClaraC&repo=edutech-pr&theme=default_repocard"/>
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+<div> 
+  <a href="https://github.com/MariaClaraC/edutech-PR">
+    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MariaClaraC&repo=edutech-pr&theme=default_repocard"/> </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" /> </a>
+</div>
 
 <details>
   <summary><b>Where to find me</b></summary>
