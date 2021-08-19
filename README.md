@@ -21,5 +21,3 @@ Eu sou uma artista, e estou no primeiro ano do ensino médio. Estou cursando fro
 <a href="https://www.planetminecraft.com/member/chocoladwichs/" target="_blank"><img src="https://img.shields.io/badge/planetminecraft-00acee?style=for-the-badge&logo=planetminecraft&logoColor=white" target="_blank">
 </a>
 </div> 
-
-/*Feel free to give Your Suggestions, */
