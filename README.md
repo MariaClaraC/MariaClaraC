@@ -11,7 +11,10 @@ Eu sou uma artista, e estou no primeiro ano do ensino médio. Estou cursando fro
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MariaClaraC&repo=edutech-pr&theme=default_repocard)](https://github.com/MariaClaraC/edutech-PR)
 
 <hr>
-<div> 
+
+<details>
+  <summary><b>Where to find me</b></summary>
+  <div> 
 <a href="https://github.com/MariaClaraC" target="_blank"><img src="https://img.shields.io/badge/github-21262c?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://www.youtube.com/channel/UCZR-10ydDCyg0SL-cmOxgGQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://twitter.com/KKey_yo" target="_blank"><img src="https://img.shields.io/badge/twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
@@ -19,3 +22,4 @@ Eu sou uma artista, e estou no primeiro ano do ensino médio. Estou cursando fro
 <a href="https://steamcommunity.com/id/KKyooishi" target="_blank"><img src="https://img.shields.io/badge/steam-1b2838?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 <a href="https://www.planetminecraft.com/member/chocoladwichs/" target="_blank"><img src="https://img.shields.io/badge/planetminecraft-00acee?style=for-the-badge&logo=planetminecraft&logoColor=white" target="_blank"></a>
 </div> 
+</details>
