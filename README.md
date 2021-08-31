@@ -1,9 +1,10 @@
 ### Hey there! 👋 Whats up?
 #### Bem-vindo ao meu perfil!
 <hr>
-Eu sou uma artista, e estou no primeiro ano do ensino médio. Estou cursando front-end na Alura  
 
-- 🔭 I’m currently working on this page lmao 
+- Cursando front-end na Alura
+- No primeiro ano do ensino médio;
+- Desenho as vezes
 
 #### :comet: Stats
 <hr>
