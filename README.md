@@ -6,6 +6,8 @@
 - No primeiro ano do ensino médio;
 - Desenho as vezes
 
+- Ainda trabalhando neste readme
+
 #### :comet: Stats
 <hr>
 
