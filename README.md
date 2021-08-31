@@ -6,7 +6,7 @@
 - No primeiro ano do ensino médio;
 - Desenho as vezes
 
-- Ainda trabalhando neste readme
+- Ainda trabalhando neste readme do perfil kkk
 
 #### :comet: Stats
 <hr>
