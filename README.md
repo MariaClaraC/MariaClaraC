@@ -7,8 +7,9 @@
 - Cursando front-end na Alura;
 - Ainda trabalhando neste readme do perfil kkk
 
+
+#### Cursos terminados
 <hr>
-ㅤㅤㅤCursos terminados:
 
   - Lógica de programação − I e II;
   - HTML5 e CSS3 − I, II, III e IV;
