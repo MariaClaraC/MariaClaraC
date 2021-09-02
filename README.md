@@ -5,6 +5,10 @@
 - No primeiro ano do ensino médio;
 - Desenho as vezes
 - Cursando front-end na Alura;
+- Ainda trabalhando neste readme do perfil kkk
+
+<hr>
+ㅤㅤㅤCursos terminados
   - Lógica de programação − I e II;
   - HTML5 e CSS3 − I, II, III e IV;
   - FlexBox;
@@ -13,8 +17,6 @@
   - Arquitetura CSS;
   - BootStrap (atualmente);
   - Guias de estilo (o próximo q irei fazer).
-
-- Ainda trabalhando neste readme do perfil kkk
 
 #### :comet: Stats
 <hr>
