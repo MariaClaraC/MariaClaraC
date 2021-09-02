@@ -8,7 +8,7 @@
 - Ainda trabalhando neste readme do perfil kkk
 
 
-#### :star: Cursos terminados
+#### :star: Cursos 
 <hr>
 
   - Lógica de programação − I e II;
