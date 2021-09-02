@@ -8,7 +8,8 @@
 - Ainda trabalhando neste readme do perfil kkk
 
 <hr>
-ㅤㅤㅤCursos terminados
+ㅤㅤㅤCursos terminados:
+
   - Lógica de programação − I e II;
   - HTML5 e CSS3 − I, II, III e IV;
   - FlexBox;
