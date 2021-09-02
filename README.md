@@ -2,9 +2,17 @@
 #### Bem-vindo ao meu perfil!
 <hr>
 
-- Cursando front-end na Alura
 - No primeiro ano do ensino médio;
 - Desenho as vezes
+- Cursando front-end na Alura;
+  - Lógica de programação − I e II;
+  - HTML5 e CSS3 − I, II, III e IV;
+  - FlexBox;
+  - Layouts responsivos;
+  - CSS Grid;
+  - Arquitetura CSS;
+  - BootStrap (atualmente);
+  - Guias de estilo (o próximo q irei fazer).
 
 - Ainda trabalhando neste readme do perfil kkk
 
