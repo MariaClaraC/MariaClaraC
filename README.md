@@ -2,13 +2,12 @@
 #### Bem-vindo ao meu perfil!
 <hr>
 
-- No primeiro ano do ensino médio;
-- Desenho as vezes
-- Cursando front-end na Alura;
 - Ainda trabalhando neste readme do perfil kkk
+- No primeiro ano do ensino médio;
+- Desenho as vezes;
+- Cursando front-end na Alura;
 
-
-#### :star: Cursos 
+#### :star: Cursos terminados e os que ainda irei fazer
 <hr>
 
   - Lógica de programação − I e II;
@@ -29,25 +28,24 @@
 
 #### :comet: Repositório
 <hr>
-<div class="repository"> 
+<section class="repository"> 
   <a href="https://github.com/MariaClaraC/edutech-PR">
     <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MariaClaraC&repo=edutech-pr&theme=default_repocard"/> </a>
-</div>
+</section>
 <hr>
 
 <b>Where to find me</b>
- <div> 
+ <section> 
   <a href="https://github.com/MariaClaraC" target="_blank"><img src="https://img.shields.io/badge/github-21262c?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCZR-10ydDCyg0SL-cmOxgGQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/KKey_yo" target="_blank"><img src="https://img.shields.io/badge/twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/kkey_yo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://steamcommunity.com/id/KKyooishi" target="_blank"><img src="https://img.shields.io/badge/steam-1b2838?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   <a href="https://www.planetminecraft.com/member/chocoladwichs/" target="_blank"><img src="https://img.shields.io/badge/planetminecraft-00acee?style=for-the-badge&logo=planetminecraft&logoColor=white" target="_blank"></a>
-  </div> 
+  </section> 
 </details>
 
-<details>
-  <summary><b>profile credits</b></summary>
+<details> <summary><b>profile credits</b></summary>
   <div> 
    - Moepoi's github stats; <br>
    - Top Langs = https://github.com/anuraghazra/github-readme-stats); <br>
