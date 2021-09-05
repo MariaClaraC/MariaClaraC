@@ -2,7 +2,8 @@
 ======
 <br>
 
-Hey there! Whats up?
+Hey there. Whats up?
+I'm Maria!
 
 :airplane: About me 
 ------
