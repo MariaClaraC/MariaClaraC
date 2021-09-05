@@ -1,10 +1,10 @@
-Bem-vindo ao meu perfil!
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Bem-vindo ao meu perfil!
 ======
 
 <br>
-Hey there! :wave: Whats up?
+Hey there! Whats up?
 
-:airplane: Sobre mim
+:airplane: Sobre mim 
 ------
    <img align="right" src="https://cdn.discordapp.com/attachments/854034503274463242/854035743228035082/baixados.jpg">
 
@@ -17,7 +17,7 @@ Hey there! :wave: Whats up?
 * :computer::computer_mouse:	Cursando front-end na Alura
 <br>
 
-:compass: Where to find me</b>
+:compass: Where to find me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 ------
 
   📝 Contact: maria.casagrande.costa@escola.pr.gov.br
@@ -58,6 +58,7 @@ Hey there! :wave: Whats up?
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraC&theme=default_repocard&layout=compact)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
 
+
  
 :seedling: Repositório
 ------
@@ -71,6 +72,14 @@ Hey there! :wave: Whats up?
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
+
+
+![Moepoi's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=MariaClaraC&show_icons=true)
+<a href="https://github.com/onimur/handle-path-oz">
+ <img height="180em" align="right" alt="My github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraC&theme=default_repocard&layout=compact">
+</a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MariaClaraC&theme=onedark_duo&hide_border=true&dates=DBDADA&currStreakLabel=FFFEFE&stroke=333333F9&ring=5094F0&fire=5094F0&sideNums=D5E5FA&sideLabels=FFFEFE&currStreakNum=D5E5FAF9)](https://git.io/streak-stats)
+
 -->
 
 </section>
