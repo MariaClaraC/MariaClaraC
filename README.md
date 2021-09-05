@@ -6,7 +6,7 @@ Hey there! Whats up?
 
 :airplane: Sobre mim 
 ------
-   <img align="right" src="https://cdn.discordapp.com/attachments/854034503274463242/854035743228035082/baixados.jpg">
+   <img align="right" src="https://cdn.discordapp.com/attachments/857351222855991306/884158508285702204/meeegit.png">
 
 * :shipit: Ainda trabalhando neste readme do perfil www
 * :brazil: :brazil: :brazil:
