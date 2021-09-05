@@ -6,6 +6,7 @@ Hey there! :wave: Whats up?
 
 :airplane: Sobre mim
 ------
+   <img align="right" src="https://cdn.discordapp.com/attachments/854034503274463242/854035743228035082/baixados.jpg">
 
 * :shipit: Ainda trabalhando neste readme do perfil www
 * :brazil: :brazil: :brazil:
@@ -50,7 +51,6 @@ Hey there! :wave: Whats up?
 :comet: Stats
  ------ 
  
-   <img align="right" src="...">
 
 ![Moepoi's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=MariaClaraC&show_icons=true)
 
