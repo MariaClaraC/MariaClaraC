@@ -51,9 +51,9 @@ Hey there! Whats up?
 
 Stats
 ------
-<img height="180em" alt="My github stats, bad apple style by Moepoi" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=MariaClaraC&show_icons=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraC&theme=default_repocard&layout=compact">
-<img height="175em" alt="My github streak" src="http://github-readme-streak-stats.herokuapp.com?user=MariaClaraC&theme=onedark_duo&hide_border=true&dates=DBDADA&currStreakLabel=FFFEFE&stroke=333333F9&ring=5094F0&fire=5094F0&sideNums=D5E5FA&sideLabels=FFFEFE&currStreakNum=D5E5FAF9">
+<img height="150em" align="center" alt="My github stats, bad apple style by Moepoi" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=MariaClaraC&show_icons=true">
+<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraC&theme=default_repocard&layout=compact">
+<img height="150em" alt="My github streak" src="http://github-readme-streak-stats.herokuapp.com?user=MariaClaraC&theme=onedark_duo&hide_border=true&dates=DBDADA&currStreakLabel=FFFEFE&stroke=333333F9&ring=5094F0&fire=5094F0&sideNums=D5E5FA&sideLabels=FFFEFE&currStreakNum=D5E5FAF9">
 
 <!--
 :comet: Stats
