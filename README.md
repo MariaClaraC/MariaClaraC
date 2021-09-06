@@ -3,6 +3,7 @@
 <br>
 
 Hey there. Whats up?
+
 I'm Maria!
 
 :airplane: About me 
@@ -22,17 +23,35 @@ I'm Maria!
 
 :compass: Where to find me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 ------
-  📝 Contact: maria.casagrande.costa@escola.pr.gov.br
+  📝 Contact:
+  
+    Maria.casagrande.costa@escola.pr.gov.br
 
 <section> 
-<a href="https://github.com/MariaClaraC" target="_blank"><img width="10%" src="https://img.shields.io/badge/github-21262c?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="mailto:maria.casagrande.costa@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.youtube.com/channel/UCZR-10ydDCyg0SL-cmOxgGQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://twitter.com/KKey_yo" target="_blank"><img src="https://img.shields.io/badge/twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/kkey_yo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-<a href="https://steamcommunity.com/id/KKyooishi" target="_blank"><img src="https://img.shields.io/badge/steam-1b2838?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
-<a href="https://br.pinterest.com/Urghwt/_saved/"><img src="https://img.shields.io/badge/pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"></a>
-<a href="https://www.planetminecraft.com/member/chocoladwichs/" target="_blank"><img src="https://img.shields.io/badge/planetminecraft-00acee?style=for-the-badge&logo=planetminecraft&logoColor=white" target="_blank"></a>
+<a href="mailto:maria.casagrande.costa@escola.pr.gov.br" target="_blank">
+   <img width="77em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://github.com/MariaClaraC" target="_blank">
+   <img width="86em" src="https://img.shields.io/badge/github-21262c?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+</a>
+<a href="https://www.youtube.com/channel/UCZR-10ydDCyg0SL-cmOxgGQ" target="_blank">
+   <img width="90em" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+</a>
+<a href="https://twitter.com/KKey_yo" target="_blank">
+   <img width="90em" src="https://img.shields.io/badge/twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+</a>
+<a href="https://www.instagram.com/kkey_yo/" target="_blank">
+   <img width="107em" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+</a> 
+<a href="https://steamcommunity.com/id/KKyooishi" target="_blank">
+   <img width="77em" src="https://img.shields.io/badge/steam-1b2838?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
+</a>
+<a href="https://br.pinterest.com/Urghwt/_saved/">
+   <img width="99em" src="https://img.shields.io/badge/pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white">
+</a>
+<a href="https://www.planetminecraft.com/member/chocoladwichs/" target="_blank">
+   <img width="130em" src="https://img.shields.io/badge/planetminecraft-00acee?style=for-the-badge&logo=planetminecraft&logoColor=white" target="_blank">
+</a>
 </section> 
 <br>
 
@@ -72,7 +91,7 @@ Stats
 
 <details> <summary> :clipboard:</summary>
 <section class="repositorio">
-  <a href="https://github.com/MariaClaraC/edutech-PR">
+<a href="https://github.com/MariaClaraC/edutech-PR">
   <img height="120em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MariaClaraC&repo=edutech-pr&theme=default_repocard"/>
 </a>
 </details>
@@ -99,7 +118,6 @@ Stats
 -->
 
 </section>
-
 
   ##
 <details> <summary><b> :construction: profile credits</b></summary>
