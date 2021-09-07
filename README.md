@@ -64,8 +64,8 @@ I'm Maria!
 * :iphone: Layouts responsivos;
 * :bricks: CSS Grid;
 * :open_file_folder: Arquitetura CSS;
-* :b: BootStrap (atualmente);
-* :symbols:	 Guias de estilo (o próximo q irei fazer).
+* :b: BootStrap;
+* :symbols:	 Guias de estilo.
 *  ... more in the future!
   <br>
 
