@@ -34,9 +34,6 @@ I'm Maria!
 <a href="https://github.com/MariaClaraC" target="_blank">
    <img width="85em" src="https://img.shields.io/badge/github-21262c?style=for-the-badge&logo=github&logoColor=white" target="_blank">
 </a>
-<a href="https://www.figma.com/@kkziym" target="_blank">
-   <img width="77em" src="https://img.shields.io/badge/figma-2BCBFF?style=for-the-badge&logo=figma&logoColor=white" target="_blank">
-</a>
 <a href="https://www.youtube.com/channel/UCZR-10ydDCyg0SL-cmOxgGQ" target="_blank">
    <img width="90em" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
 </a>
