@@ -2,7 +2,6 @@
 ======
 <br>
 
-:octocat: 
 
 Hey there. Whats up?
 
@@ -57,7 +56,7 @@ I'm Maria!
 </section> 
 <br>
 
-:comet: Completed courses
+:comet: Completed courses <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
 ------
 
 * :jigsaw: Programming logic − I e II;
