@@ -58,14 +58,14 @@ I'm Maria!
 :comet: Completed courses
 ------
 
-* :jigsaw: Lógica de programação − I e II;
-* :speech_balloon: HTML5 e CSS3 − I, II, III e IV;
+* :jigsaw: Programming logic − I e II;
+* :speech_balloon: HTML5 and CSS3 − I, II, III e IV;
 * :package: FlexBox;
-* :iphone: Layouts responsivos;
+* :iphone: Responsive Layouts;
 * :bricks: CSS Grid;
-* :open_file_folder: Arquitetura CSS;
-* :b: BootStrap;
-* :symbols:	 Guias de estilo.
+* :open_file_folder: CSS Architecture;
+* :b: Bootstrap;
+* :symbols:	 Styleguides.
 *  ... more in the future!
   <br>
 
