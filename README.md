@@ -129,5 +129,3 @@ Stats
    - [!GitHub Streak by DenverCoder1](http://github-readme-streak-stats.herokuapp.com/demo/)!
   </div> 
 </details>
-
-![](https://komarev.com/ghpvc/?username=MariaClaraC&style=flat-square)
