@@ -2,6 +2,8 @@
 ======
 <br>
 
+![](https://komarev.com/ghpvc/?username=MariaClaraC&style=flat-square)
+
 :octocat: Hey there. Whats up?
 
 I'm Maria!
