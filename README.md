@@ -77,15 +77,6 @@ Stats
    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraC&theme=default_repocard&layout=compact">
    <img height="150em" alt="My github streak" src="http://github-readme-streak-stats.herokuapp.com?user=MariaClaraC&theme=onedark_duo&hide_border=true&dates=DBDADA&currStreakLabel=FFFEFE&stroke=333333F9&ring=5094F0&fire=5094F0&sideNums=D5E5FA&sideLabels=FFFEFE&currStreakNum=D5E5FAF9">
 </div>
-
-<!--
-:comet: Stats
- ------ 
- 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MariaClaraC&theme=onedark_duo&hide_border=true&dates=DBDADA&currStreakLabel=FFFEFE&stroke=333333F9&ring=5094F0&fire=5094F0&sideNums=D5E5FA&sideLabels=FFFEFE&currStreakNum=D5E5FAF9)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraC&theme=default_repocard&layout=compact)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
--->
  
  :seedling:  Working on 
 ------
@@ -100,23 +91,6 @@ Stats
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>-->
-
-<!--
-
-<img height="180em" align="right" alt="My github stats" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=MariaClaraC&show_icons=true">
-![Moepoi's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=MariaClaraC&show_icons=true)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MariaClaraC&theme=onedark_duo&hide_border=true&dates=DBDADA&currStreakLabel=FFFEFE&stroke=333333F9&ring=5094F0&fire=5094F0&sideNums=D5E5FA&sideLabels=FFFEFE&currStreakNum=D5E5FAF9)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraC&theme=default_repocard&layout=compact)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
-
-
-![Moepoi's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=MariaClaraC&show_icons=true)
-<a href="https://github.com/onimur/handle-path-oz">
- <img height="180em" align="right" alt="My github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraC&theme=default_repocard&layout=compact">
-</a>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MariaClaraC&theme=onedark_duo&hide_border=true&dates=DBDADA&currStreakLabel=FFFEFE&stroke=333333F9&ring=5094F0&fire=5094F0&sideNums=D5E5FA&sideLabels=FFFEFE&currStreakNum=D5E5FAF9)](https://git.io/streak-stats)
--->
 
 </section>
 
