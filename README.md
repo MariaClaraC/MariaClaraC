@@ -22,15 +22,18 @@ I'm Maria!
 
 <br>
 
-:compass: Where to find me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+:compass: Where to find me 
 ------
   📝 Contact:
   
     Maria.casagrande.costa@escola.pr.gov.br
 
-<section> 
+<section align="center"> 
 <a href="mailto:maria.casagrande.costa@escola.pr.gov.br" target="_blank">
    <img width="77em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://cursos.alura.com.br/user/maria-casagrande-costa" target="_blank">
+   <img width="60em" src="https://img.shields.io/badge/alura-1F4061?style=for-the-badge&logo=alura&logoColor=white">
 </a>
 <a href="https://github.com/MariaClaraC" target="_blank">
    <img width="85em" src="https://img.shields.io/badge/github-21262c?style=for-the-badge&logo=github&logoColor=white" target="_blank">
@@ -67,6 +70,7 @@ I'm Maria!
 * :open_file_folder: CSS Architecture;
 * :b: Bootstrap;
 * :symbols:	 Styleguides.
+* :atom: HTTP: Understanding the web behind the scenes;
 *  ... more in the future!
   <br>
 
@@ -95,7 +99,8 @@ Stats
 </section>
 
   ##
-<details> <summary><b> :construction: profile credits</b></summary>
+<details> 
+   <summary><b> :construction: profile credits</b> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></summary> 
   <div> 
      
    - [Moepoi for the bad apple github stat!](https://github.com/moepoi)
