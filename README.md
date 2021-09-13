@@ -62,6 +62,8 @@ I'm Maria!
 :comet: Completed courses <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
 ------
 
+   <img height="150em" align="right" alt="My github streak" src="http://github-readme-streak-stats.herokuapp.com?user=MariaClaraC&theme=onedark_duo&hide_border=true&dates=DBDADA&currStreakLabel=FFFEFE&stroke=333333F9&ring=5094F0&fire=5094F0&sideNums=D5E5FA&sideLabels=FFFEFE&currStreakNum=D5E5FAF9">
+
 * :jigsaw: Programming logic − I e II;
 * :speech_balloon: HTML5 and CSS3 − I, II, III e IV;
 * :package: FlexBox;
@@ -79,7 +81,6 @@ Stats
 <div   <a href="https://github.com/AnaJuliaFernandes"> 
    <img height="150em" align="center" alt="My github stats, bad apple style by Moepoi" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=MariaClaraC&show_icons=true">
    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraC&theme=default_repocard&layout=compact">
-   <img height="150em" alt="My github streak" src="http://github-readme-streak-stats.herokuapp.com?user=MariaClaraC&theme=onedark_duo&hide_border=true&dates=DBDADA&currStreakLabel=FFFEFE&stroke=333333F9&ring=5094F0&fire=5094F0&sideNums=D5E5FA&sideLabels=FFFEFE&currStreakNum=D5E5FAF9">
 </div>
  
  :seedling:  Working on 
