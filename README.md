@@ -16,6 +16,7 @@ I'm Maria!
   * :birthday:	21 / ago
 * :books:	High School Student
 * :art:	I draw sometimes
+* :video_game: Favorite games: Minecraft, Terraria, Stardew valley, and others ww
 * :computer::computer_mouse:	I'm studying front-end in Alura 
    * <h6>:chess_pawn: I'm studying English and spanish too </h6>
 
@@ -23,10 +24,11 @@ I'm Maria!
 
 :compass: Where to find me 
 ------
-  📝 Contact:
-  
-    Maria.casagrande.costa@escola.pr.gov.br
 
+   📝 Email: 
+   
+          Maria.casagrande.costa@escola.pr.gov.br
+          
 <section align="center"> 
 <a href="mailto:maria.casagrande.costa@escola.pr.gov.br" target="_blank">
    <img width="77em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -55,13 +57,12 @@ I'm Maria!
 <a href="https://www.planetminecraft.com/member/chocoladwichs/" target="_blank">
    <img width="130em" src="https://img.shields.io/badge/planetminecraft-00acee?style=for-the-badge&logo=planetminecraft&logoColor=white" target="_blank">
 </a>
-</section> 
+</section>   
 <br>
 
 :comet: Completed courses <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
 ------
-
-   <img height="150em" align="right" alt="My github streak" src="http://github-readme-streak-stats.herokuapp.com?user=MariaClaraC&theme=onedark_duo&hide_border=true&dates=DBDADA&currStreakLabel=FFFEFE&stroke=333333F9&ring=5094F0&fire=5094F0&sideNums=D5E5FA&sideLabels=FFFEFE&currStreakNum=D5E5FAF9">
+<details> <summary> Click here to show! </summary>
 
 * :jigsaw: Programming logic − I e II;
 * :speech_balloon: HTML5 and CSS3 − I, II, III e IV;
@@ -72,16 +73,20 @@ I'm Maria!
 * :b: Bootstrap;
 * :symbols:	 Styleguides.
 * :atom: HTTP: Understanding the web behind the scenes;
+* :blue_square: JavaScript: Programming in the web language - 8%;
 *  ... more in the future!
-  <br>
+</details>
 
 Stats
 ------
+
 <div   <a href="https://github.com/AnaJuliaFernandes"> 
    <img height="150em" align="center" alt="My github stats, bad apple style by Moepoi" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=MariaClaraC&show_icons=true">
    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraC&theme=default_repocard&layout=compact">
+   <img height="200em"alt="My github streak" src="http://github-readme-streak-stats.herokuapp.com?user=MariaClaraC&theme=onedark_duo&hide_border=true&dates=DBDADA&currStreakLabel=FFFEFE&stroke=333333F9&ring=5094F0&fire=5094F0&sideNums=D5E5FA&sideLabels=FFFEFE&currStreakNum=D5E5FAF9">
 </div>
- 
+
+
  :seedling:  Working on 
 ------
 
