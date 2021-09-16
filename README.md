@@ -73,7 +73,7 @@ I'm Maria!
 * :b: Bootstrap;
 * :symbols:	 Styleguides.
 * :atom: HTTP: Understanding the web behind the scenes;
-* :blue_square: JavaScript: Programming in the web language - 22%;
+* :blue_square: JavaScript: Programming in the web language - current;
 *  ... more in the future!
 </details>
 
