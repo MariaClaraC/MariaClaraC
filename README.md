@@ -86,7 +86,6 @@ Stats
    <img height="200em"alt="My github streak" src="http://github-readme-streak-stats.herokuapp.com?user=MariaClaraC&theme=onedark_duo&hide_border=true&dates=DBDADA&currStreakLabel=FFFEFE&stroke=333333F9&ring=5094F0&fire=5094F0&sideNums=D5E5FA&sideLabels=FFFEFE&currStreakNum=D5E5FAF9">
 </div>
 
-
  :seedling:  Working on 
 ------
 
@@ -112,5 +111,3 @@ Stats
    - [!GitHub Streak by DenverCoder1](http://github-readme-streak-stats.herokuapp.com/demo/)!
   </div> 
 </details>
-
-![](https://komarev.com/ghpvc/?username=MariaClaraC&style=flat-square)
