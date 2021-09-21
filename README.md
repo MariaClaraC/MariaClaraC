@@ -8,6 +8,7 @@ I'm Maria!
 
 :airplane: About me 
 ------
+
    <img align="right" src="https://cdn.discordapp.com/attachments/857351222855991306/884158508285702204/meeegit.png">
 
 * :shipit:	(Ainda trabalhando neste readme do perfil www)
@@ -27,7 +28,7 @@ I'm Maria!
 
    📝 Email: 
    
-          Maria.casagrande.costa@escola.pr.gov.br
+      Maria.casagrande.costa@escola.pr.gov.br
           
 <section align="center"> 
 <a href="mailto:maria.casagrande.costa@escola.pr.gov.br" target="_blank">
@@ -85,6 +86,8 @@ Stats
    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraC&theme=default_repocard&layout=compact">
    <img height="200em"alt="My github streak" src="http://github-readme-streak-stats.herokuapp.com?user=MariaClaraC&theme=onedark_duo&hide_border=true&dates=DBDADA&currStreakLabel=FFFEFE&stroke=333333F9&ring=5094F0&fire=5094F0&sideNums=D5E5FA&sideLabels=FFFEFE&currStreakNum=D5E5FAF9">
 </div>
+
+
 
  :seedling:  Working on 
 ------
