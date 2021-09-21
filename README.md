@@ -95,8 +95,7 @@ Stats
   <img height="120em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MariaClaraC&repo=edutech-pr&theme=default_repocard"/>
 </a>
 </details>
-<!--
-<a href="https://github.com/anuraghazra/convoychat">
+<!-- <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>-->
 </section>
