@@ -113,3 +113,6 @@ Stats
    - [!GitHub Streak by DenverCoder1](http://github-readme-streak-stats.herokuapp.com/demo/)!
   </div> 
 </details>
+
+  ![Snake animation](https://github.com/MariaClaraC/MariaClaraC/blob/main/github-user-contribution.svg)
+
