@@ -2,7 +2,7 @@
 ======
 <br>
 
-Hey there. Whats up?
+━ "Hey there. Whats up?"
 
 I'm Maria!
 
@@ -14,12 +14,13 @@ I'm Maria!
 * :shipit:	(Ainda trabalhando neste readme do perfil www)
 * :brazil:	:brazil:	:brazil:
 * :bookmark:	15 Yo   
-  * :birthday:	21 / ago
+  :birthday:	21 / ago
 * :books:	High School Student
 * :art:	I draw sometimes
 * :video_game: Favorite games: Minecraft, Terraria, Stardew valley, and others ww
 * :computer::computer_mouse:	I'm studying front-end in Alura 
-   * <h6>:chess_pawn: I'm studying English and spanish too </h6>
+  
+   :chess_pawn: I'm studying English and spanish too
 
 <br>
 
