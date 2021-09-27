@@ -114,5 +114,5 @@ Stats
   </div> 
 </details>
 
-  ![Snake animation](https://github.com/MariaClaraC/MariaClaraC/blob/main/github-user-contribution.svg)
+  ![Snake animation](https://github.com/MariaClaraC/MariaClaraC/blob/main/.github/workflows/snake.yml)
 
