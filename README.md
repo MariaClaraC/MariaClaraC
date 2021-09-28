@@ -9,7 +9,8 @@ I'm Maria!
 :airplane: About me 
 ------
 
-   <img align="right" src="https://cdn.discordapp.com/attachments/857351222855991306/884158508285702204/meeegit.png">
+  <!--<img align="right" src="https://cdn.discordapp.com/attachments/857351222855991306/884158508285702204/meeegit.png">-->
+  <img align="right" width="100em" src="https://github.githubassets.com/images/mona-loading-dark.gif">
 
 * :shipit:	(Ainda trabalhando neste readme do perfil www)
 * :brazil:	:brazil:	:brazil:
