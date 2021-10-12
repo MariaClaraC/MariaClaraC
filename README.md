@@ -91,6 +91,7 @@ I'm Maria!
 * :u7533: Front-end: Projeto de conclusão;-->
 
 *  ... more in the future!
+  
 </details>
 
 Stats
