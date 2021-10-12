@@ -85,14 +85,15 @@ I'm Maria!
 * :symbols:	 Styleguides.
 * :atom: HTTP: Understanding the web behind the scenes;
 * :blue_square: JavaScript: Programming in the web language;
-  <!-- * :children_crossing: Acessibilidade web parte 2: Componentes acessíveis com um pouco de JavaScript;
+*  ... more in the future!
+</details>
+
+  <!-- 
+* :children_crossing: Acessibilidade web parte 2: Componentes acessíveis com um pouco de JavaScript;
 * :globe_with_meridians: HTTP: Entendendo a web por baixo dos panos;
 * :vs: Vetores e Animação com SVG: Trabalhando com CSS e JavaScript
-* :u7533: Front-end: Projeto de conclusão;-->
-
-*  ... more in the future!
-  
-</details>
+* :u7533: Front-end: Projeto de conclusão;
+-->
 
 Stats
 ------
