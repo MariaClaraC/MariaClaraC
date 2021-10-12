@@ -57,7 +57,7 @@ I'm Maria!
 <a href="https://br.pinterest.com/Urghwt/_saved/">
    <img width="99em" src="https://img.shields.io/badge/pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white">
 </a>
-<a href="https://www.planetminecraft.com/member/chocoladwichs/" target="_blank">
+<a href="https://www.planetminecraft.com/member/kkeyyos" target="_blank">
    <img width="130em" src="https://img.shields.io/badge/planetminecraft-00acee?style=for-the-badge&logo=planetminecraft&logoColor=white" target="_blank">
 </a>
 </section>   
