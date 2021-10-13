@@ -124,8 +124,10 @@ Stats
    <summary><b> :construction: profile credits</b> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></summary> 
   <div> 
      
-   - [Moepoi for the bad apple github stat!](https://github.com/moepoi)
-   - [Top Langs!](https://github.com/anuraghazra/github-readme-stats)
-   - [!GitHub Streak by DenverCoder1](http://github-readme-streak-stats.herokuapp.com/demo/)!
+   - [Moepoi](https://github.com/moepoi) for the bad apple github stat!
+   - [Top Langs!](https://github.com/anuraghazra/github-readme-stats) by [Anurag Hazra](https://github.com/anuraghazra)!
+   - [!GitHub Streak](http://github-readme-streak-stats.herokuapp.com/demo/) by [DenverCoder1](https://github.com/DenverCoder1)!
+   - [!Badges for GitHub](https://dev.to/envoy_/150-badges-for-github-pnk) by [Vedant Chainani](https://github.com/Envoy-VC)!
+   - 
   </div> 
 </details>
