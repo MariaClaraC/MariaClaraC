@@ -85,7 +85,8 @@ I'm Maria!
 * :symbols:	 Styleguides.
 * :atom: HTTP: Understanding the web behind the scenes;
 * :blue_square: JavaScript: Programming in the web language;
-*  ... more in the future!
+* :children_crossing: Web accessibility part 1: making your front-end inclusive;
+* ... more in the future!
 </details>
 
   <!-- 
