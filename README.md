@@ -71,7 +71,7 @@ I'm Maria!
 <img  height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </section>
 
-:comet: Completed courses <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+:comet: Courses completed at Alura <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
 ------
 <details> <summary> Click here to show! </summary>
 
