@@ -128,6 +128,7 @@ Stats
    - [Top Langs!](https://github.com/anuraghazra/github-readme-stats) by [Anurag Hazra](https://github.com/anuraghazra)!
    - [!GitHub Streak](http://github-readme-streak-stats.herokuapp.com/demo/) by [DenverCoder1](https://github.com/DenverCoder1)!
    - [!Badges for GitHub](https://dev.to/envoy_/150-badges-for-github-pnk) by [Vedant Chainani](https://github.com/Envoy-VC)!
-   - 
+   - [!Emoji Sheet](https://github.com/ikatyang/emoji-cheat-sheet) by [ikatyang](https://github.com/ikatyang)!
+   - [!Devicon](https://devicon.dev/)!
   </div> 
 </details>
