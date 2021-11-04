@@ -88,16 +88,11 @@ I'm Maria!
 * :blue_square: JavaScript: Programming in the web language;
 * :children_crossing: Web accessibility part 1: making your front-end inclusive;
 * :children_crossing: Acessibilidade web parte 2: Componentes acessíveis com um pouco de JavaScript;
-* :vs: Vetores e Animação com SVG: Trabalhando com CSS e JavaScript;
-* :u6e80: Front-end: Projeto de conclusão;
-* ... more in the future!
-</details>
-
-  <!-- 
 * :globe_with_meridians: HTTP: Entendendo a web por baixo dos panos;
 * :vs: Vetores e Animação com SVG: Trabalhando com CSS e JavaScript
 * :u7533: Front-end: Projeto de conclusão;
--->
+  
+</details>
 
 Stats
 ------
