@@ -2,9 +2,9 @@
 ======
 <br>
 
-━ "Heyy there. Whats up?"
+ "Heyy there. Whats up?"
 
-I'm Maria!
+━ I'm Maria!
 
 :airplane: About me 
 ------
@@ -17,9 +17,9 @@ I'm Maria!
 * :bookmark:	15 Yo   
   :birthday:	21 / ago
 * :books:	High School Student
-* :art:	I draw sometimes
+* :art:	I draw sometimes hihi
 * :video_game: Favorite games: Minecraft, Terraria, Stardew valley, and others ww
-* :computer::computer_mouse:	I'm studying front-end in Alura 
+* :computer::computer_mouse:	I'm studying front-end in Alura by Edutech 
   
    :chess_pawn: I'm studying English and spanish too
 
@@ -29,10 +29,10 @@ I'm Maria!
 ------
 
    📝 Email: 
-   
+<section align="center">    
+  
       Maria.casagrande.costa@escola.pr.gov.br
           
-<section align="center"> 
 <a href="mailto:maria.casagrande.costa@escola.pr.gov.br" target="_blank">
    <img width="77em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
@@ -75,29 +75,27 @@ I'm Maria!
 Stats <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
 ------
 
-<div align="center">
+<section align="center">
   <a href="https://github.com/MariaClaraC">
   <img height="150em" alt="Github stats, bad apple style by Moepoi" src="https://bad-apple-github-readme.vercel.app/api?  show_bg=1&username=MariaClaraC&show_icons=true">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraC&theme=default_repocard&layout=compact">
   <img height="200em" alt="Github streak" src="http://github-readme-streak-stats.herokuapp.com?user=MariaClaraC&theme=onedark_duo&hide_border=true&dates=DBDADA&currStreakLabel=FFFEFE&stroke=333333F9&ring=5094F0&fire=5094F0&sideNums=D5E5FA&sideLabels=FFFEFE&currStreakNum=D5E5FAF9">
   </a>
-</div>
+</section>
 
  :seedling:  Working on 
 ------
 
-<details> <summary> :clipboard:</summary>
+<details> 
+  <summary> :clipboard:</summary>
 <section class="repositorio">
 <a href="https://github.com/MariaClaraC/edutech-PR">
   <img height="120em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MariaClaraC&repo=edutech-pr&theme=default_repocard"/>
 </a>
 </details>
-
-<!--
- <a href="https://github.com/anuraghazra/convoychat">
+<!-- <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
--->
+</a> -->
 </section>
 
   ##
