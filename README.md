@@ -12,8 +12,7 @@
 
   <!--<img align="right" src="https://cdn.discordapp.com/attachments/857351222855991306/884158508285702204/meeegit.png">-->
 
-* :shipit:	(Ainda trabalhando neste readme do perfil www)
-* :brazil:	:brazil:	:brazil:
+* :shipit: :brazil:	:brazil:	:brazil:
 <!--* :bookmark:	15 Yo   
   :birthday:	21 / ago-->
 * :books:	High School Student, not very good with social interactions
