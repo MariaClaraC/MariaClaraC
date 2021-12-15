@@ -8,9 +8,8 @@
 
 :airplane: About me 
 ------
-  <img align="right" src="https://img1.picmix.com/output/stamp/normal/2/3/4/4/1774432_0219c.gif">
 
-  <!--<img align="right" src="https://cdn.discordapp.com/attachments/857351222855991306/884158508285702204/meeegit.png">-->
+<!--<img align="right" src="https://img1.picmix.com/output/stamp/normal/2/3/4/4/1774432_0219c.gif">-->
 
 * :shipit: :brazil:	:brazil:	:brazil:
 <!--* :bookmark:	15 Yo   
