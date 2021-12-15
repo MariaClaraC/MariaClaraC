@@ -1,6 +1,5 @@
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Welcome to my profile!
-======
-<br>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Welcome to my profile! </h1>
+
 
  "Heyy there. Whats up?"
 
