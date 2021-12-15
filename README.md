@@ -14,8 +14,8 @@
 
 * :shipit:	(Ainda trabalhando neste readme do perfil www)
 * :brazil:	:brazil:	:brazil:
-* :bookmark:	15 Yo   
-  :birthday:	21 / ago
+<!--* :bookmark:	15 Yo   
+  :birthday:	21 / ago-->
 * :books:	High School Student, not very good with social interactions
 * :art:	I love drawing!!
 * :video_game: Favorite games: Minecraft, Terraria, Stardew valley, and others ww
