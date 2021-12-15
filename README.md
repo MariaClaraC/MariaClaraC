@@ -16,10 +16,10 @@
 * :brazil:	:brazil:	:brazil:
 * :bookmark:	15 Yo   
   :birthday:	21 / ago
-* :books:	High School Student
-* :art:	I draw sometimes hihi
+* :books:	High School Student, not very good with social interactions
+* :art:	I love drawing!!
 * :video_game: Favorite games: Minecraft, Terraria, Stardew valley, and others ww
-* :computer::computer_mouse:	I'm studying front-end in Alura by Edutech 
+* :computer::computer_mouse:	I studied front-end at Edutech's Alura
   
    :chess_pawn: I'm studying English and spanish too
 
@@ -34,32 +34,23 @@
       Maria.casagrande.costa@escola.pr.gov.br
           
 <a href="mailto:maria.casagrande.costa@escola.pr.gov.br" target="_blank">
-   <img width="77em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+   <img width="77em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://cursos.alura.com.br/user/maria-casagrande-costa" target="_blank">
-   <img width="60em" src="https://img.shields.io/badge/alura-1F4061?style=for-the-badge&logo=alura&logoColor=white">
-</a>
-<a href="https://github.com/MariaClaraC" target="_blank">
-   <img width="85em" src="https://img.shields.io/badge/github-21262c?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-</a>
+   <img width="60em" src="https://img.shields.io/badge/alura-1F4061?style=for-the-badge&logo=alura&logoColor=white"></a>
+<!--<a href="https://github.com/MariaClaraC" target="_blank">
+<img width="85em" src="https://img.shields.io/badge/github-21262c?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>-->
 <a href="https://www.youtube.com/channel/UCZR-10ydDCyg0SL-cmOxgGQ" target="_blank">
-   <img width="90em" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
-</a>
+   <img width="90em" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://twitter.com/KKey_yo" target="_blank">
-   <img width="90em" src="https://img.shields.io/badge/twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
-</a>
+   <img width="90em" src="https://img.shields.io/badge/twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/kkey_yo/" target="_blank">
-   <img width="107em" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-</a> 
+   <img width="107em" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 <a href="https://steamcommunity.com/id/KKyooishi" target="_blank">
-   <img width="77em" src="https://img.shields.io/badge/steam-1b2838?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
-</a>
+   <img width="77em" src="https://img.shields.io/badge/steam-1b2838?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 <a href="https://br.pinterest.com/Urghwt/_saved/">
-   <img width="99em" src="https://img.shields.io/badge/pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white">
-</a>
+   <img width="99em" src="https://img.shields.io/badge/pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"></a>
 <a href="https://www.planetminecraft.com/member/kkeyyos" target="_blank">
-   <img width="130em" src="https://img.shields.io/badge/planetminecraft-00acee?style=for-the-badge&logo=planetminecraft&logoColor=white" target="_blank">
-</a>
+   <img width="130em" src="https://img.shields.io/badge/planetminecraft-00acee?style=for-the-badge&logo=planetminecraft&logoColor=white" target="_blank"></a>
 </section>   
 <br>
 
