@@ -25,10 +25,10 @@
 :compass: Where to find me 
 ------
 
-   📝 Email: 
+<!--   📝 Email: 
 <section align="center">    
   
-      Maria.casagrande.costa@escola.pr.gov.br
+      Maria.casagrande.costa@escola.pr.gov.br -->
           
 <a href="mailto:maria.casagrande.costa@escola.pr.gov.br" target="_blank">
    <img width="77em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
