@@ -1,12 +1,9 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Welcome to my profile! </h1>
-
+ ━ "Heyy there. Whats up?"
+ 
 :airplane: About me 
 ------
-
 <!--<img align="right" src="https://img1.picmix.com/output/stamp/normal/2/3/4/4/1774432_0219c.gif">-->
-
- ━ "Heyy there. Whats up?"
-
 * :shipit: :brazil:	:brazil:	:brazil:
 <!--* :bookmark:	15 Yo   
   :birthday:	21 / ago-->
@@ -14,19 +11,15 @@
 * :art:	I love drawing!!
 * :video_game: Favorite games: Minecraft, Terraria, Stardew valley, and others ww
 * :computer::computer_mouse:	I studied front-end at Edutech's Alura
-  
    :chess_pawn: I'm studying English and spanish. I plan to study Japanese and Russian too (why not?)
-
-<br>
 
 :compass: Where to find me 
 ------
 
 <!--   📝 Email: 
-<section align="center">    
-  
       Maria.casagrande.costa@escola.pr.gov.br -->
-          
+
+<section align="center">
 <a href="mailto:maria.casagrande.costa@escola.pr.gov.br" target="_blank">
    <img width="77em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://cursos.alura.com.br/user/maria-casagrande-costa" target="_blank">
@@ -45,11 +38,9 @@
    <img width="99em" src="https://img.shields.io/badge/pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"></a>
 <a href="https://www.planetminecraft.com/member/kkeyyos" target="_blank">
    <img width="130em" src="https://img.shields.io/badge/planetminecraft-00acee?style=for-the-badge&logo=planetminecraft&logoColor=white" target="_blank"></a>
-</section>   
-<br>
+</section>  
 
 #
-
 <section align="center">
   <img  height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img  height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -59,7 +50,6 @@
 
 Stats <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
 ------
-
 <section align="center">
   <a href="https://github.com/MariaClaraC">
   <img height="150em" alt="Github stats, bad apple style by Moepoi" src="https://bad-apple-github-readme.vercel.app/api?  show_bg=1&username=MariaClaraC&show_icons=true">
@@ -68,9 +58,8 @@ Stats <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" w
   </a>
 </section>
 
- :seedling:  Working on 
+ :seedling:  Working on...
 ------
-
 <details> 
   <summary> :clipboard:</summary>
 <section class="repositorio">
