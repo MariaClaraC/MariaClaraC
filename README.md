@@ -1,14 +1,11 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Welcome to my profile! </h1>
 
-
- "Heyy there. Whats up?"
-
-━ I'm Maria!
-
 :airplane: About me 
 ------
 
 <!--<img align="right" src="https://img1.picmix.com/output/stamp/normal/2/3/4/4/1774432_0219c.gif">-->
+
+ ━ "Heyy there. Whats up?"
 
 * :shipit: :brazil:	:brazil:	:brazil:
 <!--* :bookmark:	15 Yo   
