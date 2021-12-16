@@ -11,7 +11,7 @@
 * :art:	I love drawing!!
 * :video_game: Favorite games: Minecraft, Terraria, Stardew valley, and others ww
 * :computer::computer_mouse:	I studied front-end at Edutech's Alura
-   :chess_pawn: I'm studying English and spanish. I plan to study Japanese and Russian too (why not?)
+* :chess_pawn: I'm studying English and spanish. I plan to study Japanese and Russian too (why not?)
 
 :compass: Where to find me 
 ------
