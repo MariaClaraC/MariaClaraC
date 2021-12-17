@@ -1,10 +1,13 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Welcome to my profile! </h1>
- ━ "Heyy there. Whats up?"
+
+<img align="right" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/48770ec0-4a22-40b0-be3e-05112972d3ca/d7ud2ku-7aef6d8b-891c-4b5e-a31a-c74936e858d5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ4NzcwZWMwLTRhMjItNDBiMC1iZTNlLTA1MTEyOTcyZDNjYVwvZDd1ZDJrdS03YWVmNmQ4Yi04OTFjLTRiNWUtYTMxYS1jNzQ5MzZlODU4ZDUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.rpQBybLGMFKq9eUHPJ5qFqtuFPQeGpFHQ0fRT3UxQB4">
+
+Heyy there. Whats up?
+
 I'm Maria but you can call me SeaLie!
 
 :airplane: About me 
 ------
-<!--<img align="right" src="https://img1.picmix.com/output/stamp/normal/2/3/4/4/1774432_0219c.gif">-->
 * :shipit: :brazil:	:brazil:	:brazil:
 <!--* :bookmark:	15 Yo   
   :birthday:	21 / ago-->
@@ -84,5 +87,6 @@ Stats <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" w
    - [Badges for GitHub](https://dev.to/envoy_/150-badges-for-github-pnk) by [Vedant Chainani](https://github.com/Envoy-VC)!
    - [Emoji Sheet](https://github.com/ikatyang/emoji-cheat-sheet) by [ikatyang](https://github.com/ikatyang)!
    - [Devicon](https://devicon.dev/)!
+   - [Anchor Pixel](https://www.deviantart.com/alpha-sai/art/Anchor-Pixel-474261582) by [Alpha-sai](https://www.deviantart.com/alpha-sai)!
   </div> 
 </details>
