@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> Welcome to my profile! </h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> Welcome to my profile! </h1>
 
 <img align="right" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/48770ec0-4a22-40b0-be3e-05112972d3ca/d7ud2ku-7aef6d8b-891c-4b5e-a31a-c74936e858d5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ4NzcwZWMwLTRhMjItNDBiMC1iZTNlLTA1MTEyOTcyZDNjYVwvZDd1ZDJrdS03YWVmNmQ4Yi04OTFjLTRiNWUtYTMxYS1jNzQ5MzZlODU4ZDUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.rpQBybLGMFKq9eUHPJ5qFqtuFPQeGpFHQ0fRT3UxQB4">
 
