@@ -34,7 +34,7 @@ Heyy there. Whats up? <br> I'm Maria but you can call me SeaLie!
   <img height="200em" alt="Github streak" src="http://github-readme-streak-stats.herokuapp.com?user=MariaClaraC&theme=onedark_duo&hide_border=true&dates=DBDADA&currStreakLabel=FFFEFE&stroke=333333F9&ring=5094F0&fire=5094F0&sideNums=D5E5FA&sideLabels=FFFEFE&currStreakNum=D5E5FAF9"></a>
 </section>
 
-:seedling: programming languages
+:seedling: 
 ------
 <section align="center">
   <img  height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
