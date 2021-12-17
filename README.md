@@ -14,7 +14,7 @@ I'm Maria but you can call me SeaLie!
 * :books:	High School Student, not very good with social interactions
 * :art:	I love drawing!!
 * :video_game: Favorite games: Minecraft, Terraria, Stardew valley, and others ww
-*	I studied front-end at Edutech's Alura :ghost:
+*	I studied front-end at Alura :ghost:
 * I'm studying English and spanish. I plan to study Japanese and Russian too (why not?) :page_with_curl:
 
 :compass: Where to find me 
