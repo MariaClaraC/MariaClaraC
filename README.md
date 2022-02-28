@@ -1,12 +1,13 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="45px"> Welcome to my profile!</h1>
 
-Heyy there. Whats up? <br> I'm Maria but you can call me SeaLie!
-
 :airplane: About me 
 ------
-* :shipit: :brazil:	:brazil:	:brazil:     <!--* :bookmark:	15 Yo |  :birthday:	21 / ago-->
+Heyy there. Whats up? <br> I'm Maria but you can call me SeaLie!
+
+* :shipit: :brazil:	:brazil:	:brazil:     
+* :birthday:	21/ago
 * :books:	High School Student, not very good with social interactions
-* :art:	I love drawing!!
+* :art:	I love drawing!! I'm a self-taught wannabe artist
 * :video_game: Favorite games: Minecraft, Terraria, Stardew valley, and others ww
 *	I studied front-end at Alura :ghost:
 * I'm studying English and spanish. I plan to study Japanese and Russian too (why not?) 
