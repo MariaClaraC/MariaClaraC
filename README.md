@@ -5,9 +5,9 @@
 * :shipit: :brazil: | :birthday:	21/ago
 * :books:	High School Student, not very good with social interactions
 * :art:	I love drawing!! I'm a self-taught wannabe artist
-* :video_game: Favorite games: Minecraft, Terraria, Stardew valley, and others ww
+<!--* :video_game: Favorite games: Minecraft, Terraria, Stardew valley, and others ww -->
 *	I studied front-end at Alura :ghost:
-* I'm studying English and spanish. I plan to study Japanese and Russian too (why not?) 
+<!--* I'm studying English and spanish. I plan to study Japanese and Russian too (why not?) -->
 
 :compass: Where to find me 
 ------ 
