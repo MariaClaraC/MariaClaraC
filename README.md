@@ -2,7 +2,7 @@
 
 <b>:airplane: Heyy there. Whats up? <br></b> I'm Maria but you can call me whatever you like!
 
-* :shipit: :brazil: | :birthday:	21/ago
+* :shipit: :brazil: <!--| :birthday:	21/ago-->
 * :books:	High School Student, not very good with social interactions
 * :art:	I love drawing!! I'm a self-taught wannabe artist
 <!--* :video_game: Favorite games: Minecraft, Terraria, Stardew valley, and others ww -->
