@@ -9,7 +9,7 @@
 *	I studied front-end at Alura :ghost:
 <!--* I'm studying English and spanish. I plan to study Japanese and Russian too (why not?) -->
 
-:compass: Where to find me 
+<details><summary>:compass: Where to find me</summary>
 ------ 
 <section align="center">     <!--   📝 Email: |      Maria.casagrande.costa@escola.pr.gov.br -->
   <a href="mailto:maria.casagrande.costa@escola.pr.gov.br" target="_blank"><img width="77em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -21,7 +21,7 @@
   <a href="https://br.pinterest.com/Urghwt/_saved/"><img width="99em" src="https://img.shields.io/badge/pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"></a>
   <a href="https://www.planetminecraft.com/member/kkeyyos" target="_blank"><img width="130em" src="https://img.shields.io/badge/planetminecraft-00acee?style=for-the-badge&logo=planetminecraft&logoColor=white" target="_blank"></a>
 </section>  
-
+</details>
 :page_with_curl: Stats
 ------
 <section align="center">
