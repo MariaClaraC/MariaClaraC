@@ -49,6 +49,5 @@
    - [Badges for GitHub](https://dev.to/envoy_/150-badges-for-github-pnk) by [Vedant Chainani](https://github.com/Envoy-VC)!
    - [Emoji Sheet](https://github.com/ikatyang/emoji-cheat-sheet) by [ikatyang](https://github.com/ikatyang)!
    - [Devicon](https://devicon.dev/)!
-   - [Anchor Pixel](https://www.deviantart.com/alpha-sai/art/Anchor-Pixel-474261582) by [Alpha-sai](https://www.deviantart.com/alpha-sai)!
   </div> 
 </details>
