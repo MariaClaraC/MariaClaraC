@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="45px"> Welcome to my profile!</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="45"> Welcome to my profile!</h1>
 
 <b>:airplane: Heyy there. Whats up? <br></b> I'm Maria but you can call me whatever you like!
 
