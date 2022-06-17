@@ -6,6 +6,7 @@
 * :books:	High School Student, not very good with social interactions.
 * :art:	I love drawing!! I'm a self-taught wannabe artist. :brazil:
 * :ghost: I studied front-end at Alura. 
+* :rabbit: Tired Nousagi. 
  
 
 :woman_technologist: Skills:
