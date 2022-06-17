@@ -22,6 +22,7 @@
  
  #### :speech_balloon:	Other
  <section>
+ <img width="160em" src="https://img.shields.io/badge/Visual%20Studio%20Code-21262D.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
  <img width="90em" src="https://img.shields.io/badge/Blender-21262D?style=for-the-badge&logo=blender&logoColor=white">
  <img width="76em" src="https://img.shields.io/badge/Figma-21262D?style=for-the-badge&logo=figma&logoColor=white">
  <img width="77em" src="https://img.shields.io/badge/Canva-21262D?style=for-the-badge&logo=Canva&logoColor=white">
