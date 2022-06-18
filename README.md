@@ -2,10 +2,11 @@
 <img align="right" src="https://media.discordapp.net/attachments/877956825528565841/984120654691454986/94f5adb47247b44a9ab8785f1e6a5a84_7952095478982529206.gif?width=250&height=250">
 
 ![](https://komarev.com/ghpvc/?username=MariaClaraC&style=flat-square)ㅤㅤㅤWhats up? 
-*  I'm Maria. But you can call me whatever you like!
+* :bookmark: I'm Maria. But you can call me whatever you like!
+* :brazil: Brazilian, nice to meet ya!
 * :books:	High School Student, not very good with social interactions.
-* :art:	I love drawing!! I'm a self-taught wannabe artist. :brazil:
-* :ghost: I studied front-end at Alura. 
+* :art:	I love drawing!! I'm a self-taught wannabe artist! :brazil:
+* :ghost: I studied front-end at Alura. Currently studying Data Science as well.
 * :rabbit: Tired Nousagi. 
  
 
@@ -41,6 +42,7 @@
 <a href="https://steamcommunity.com/id/KKyooishi" target="_blank"><img width="77em" src="https://img.shields.io/badge/steam-1b2838?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 <a href="https://br.pinterest.com/Urghwt/_saved/"><img width="99em" src="https://img.shields.io/badge/pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"></a>
 <a href="https://www.planetminecraft.com/member/kkeyyos" target="_blank"><img width="130em" src="https://img.shields.io/badge/planetminecraft-00acee?style=for-the-badge&logo=planetminecraft&logoColor=white" target="_blank"></a>
+<a href="https://hub.vroid.com/en/users/42324143" target="_blank"><img width="59em" src="https://img.shields.io/badge/Vroid-00acee?style=for-the-badge&logo=Vroid&logoColor=white" target="_blank"></a>
 </section>
 
 :page_with_curl: Stats
