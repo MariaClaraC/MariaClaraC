@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="45"> Hey! Welcome to my profile!</h1>
-<img align="right" src="https://media.discordapp.net/attachments/877956825528565841/984120654691454986/94f5adb47247b44a9ab8785f1e6a5a84_7952095478982529206.gif?width=250&height=250">
+<img align="right" src="https://c.tenor.com/39pjvu13LPIAAAAi/kiss.gif?width=250&height=250">
 
 ![](https://komarev.com/ghpvc/?username=MariaClaraC&style=flat-square)ㅤㅤㅤWhats up? 
 * :bookmark: I'm Maria. But you can call me whatever you like!
