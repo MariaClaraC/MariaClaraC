@@ -52,3 +52,21 @@
    - [!GitHub Streak by DenverCoder1 = http://github-readme-streak-stats.herokuapp.com/demo/; <br>
   </div> 
 </details>
+
+
+
+
+
+<!--
+<section align="center">    
+<a href="mailto:maria.casagrande.costa@escola.pr.gov.br" target="_blank"><img width="77em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://cursos.alura.com.br/user/maria-casagrande-costa" target="_blank"><img width="60em" src="https://img.shields.io/badge/alura-1F4061?style=for-the-badge&logo=alura&logoColor=white"></a>
+<a href="https://www.youtube.com/channel/UCZR-10ydDCyg0SL-cmOxgGQ" target="_blank"><img width="90em" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://twitter.com/EzKY_7" target="_blank"><img width="90em" src="https://img.shields.io/badge/twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/EzKY_7/" target="_blank"><img width="107em" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+<a href="https://steamcommunity.com/id/KKyooishi" target="_blank"><img width="77em" src="https://img.shields.io/badge/steam-1b2838?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+<a href="https://br.pinterest.com/Urghwt/_saved/"><img width="99em" src="https://img.shields.io/badge/pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"></a>
+<a href="https://www.planetminecraft.com/member/kkeyyos" target="_blank"><img width="130em" src="https://img.shields.io/badge/planetminecraft-00acee?style=for-the-badge&logo=planetminecraft&logoColor=white" target="_blank"></a>
+<a href="https://hub.vroid.com/en/users/42324143" target="_blank"><img width="59em" src="https://img.shields.io/badge/Vroid-00acee?style=for-the-badge&logo=Vroid&logoColor=white" target="_blank"></a>
+</section>
+-->
